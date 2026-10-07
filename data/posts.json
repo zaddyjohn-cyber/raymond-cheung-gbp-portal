@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "posted": false,
+    "summary": "Most boards treat risk appetite as a policy document. It should be a decision tool. If your risk appetite statement cannot tell a front-line manager whether to take a specific deal or not, it is not doing its job.\n\nRead the full article on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/risk-appetite-decisions"
+    }
+  },
+  {
+    "id": 2,
+    "posted": false,
+    "summary": "Climate transition is a governance issue before it is a reporting issue. Boards that wait for the disclosure mandate before engaging with transition risk are already behind.\n\nRead more on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/climate-transition-governance"
+    }
+  },
+  {
+    "id": 3,
+    "posted": false,
+    "summary": "What does an actuarial board adviser actually do? It is not about checking the numbers. It is about making sure the board can interrogate the numbers -- and challenge the assumptions behind them.\n\nFind out more on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/actuarial-board-adviser-singapore"
+    }
+  },
+  {
+    "id": 4,
+    "posted": false,
+    "summary": "AI governance in Singapore insurance: MAS has set clear expectations. What most boards are missing is not a policy -- it is the ability to ask the right questions of AI outputs before approving their use.\n\nRead the full piece on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/ai-governance-insurance-singapore"
+    }
+  },
+  {
+    "id": 5,
+    "posted": false,
+    "summary": "Capital strategy belongs in the boardroom -- not just in the actuarial report. Singapore insurance boards that leave capital decisions to management are not fulfilling their oversight duty under MAS Notice 126.\n\nRead more at the link.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/capital-strategy-boardroom"
+    }
+  },
+  {
+    "id": 6,
+    "posted": false,
+    "summary": "The ORSA is the most underused strategic tool available to Singapore insurance boards. Most firms treat it as a compliance exercise. The boards that use it properly get a live view of whether their capital can support their strategy.\n\nRead the full article on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/orsa-strategic-tool-singapore-insurance-boards"
+    }
+  },
+  {
+    "id": 7,
+    "posted": false,
+    "summary": "Cybersecurity Act 2026 makes cyber risk a board duty in Singapore -- not a CISO problem. Directors who cannot engage substantively with their organisation's cyber posture are now personally exposed.\n\nRead what this means for boards at the link.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/cyber-risk-governance-singapore-boards"
+    }
+  },
+  {
+    "id": 8,
+    "posted": false,
+    "summary": "ESG compliance is not the same as ESG readiness. A board can tick every disclosure box and still have no coherent view of how sustainability risks affect the business model.\n\nRead the full piece on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/esg-compliance-readiness"
+    }
+  },
+  {
+    "id": 9,
+    "posted": false,
+    "summary": "What five questions should every SGX audit committee ask the CRO? The answers reveal whether risk management is integrated into strategy or still sitting in a separate silo.\n\nRead the full article at the link.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/sgx-audit-committee-cro-questions"
+    }
+  },
+  {
+    "id": 10,
+    "posted": false,
+    "summary": "MAS Notice 126 creates personal accountability for Singapore insurance board directors. Most directors do not know exactly what they are accountable for -- until something goes wrong.\n\nRead what the Notice actually requires at the link.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/mas-notice-126-insurance-boards"
+    }
+  },
+  {
+    "id": 11,
+    "posted": false,
+    "summary": "What does a board risk committee actually need to look like for a Singapore-listed company? Composition, mandate, MI, and the questions it should be asking every quarter.\n\nRead the full piece on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/board-risk-committee-singapore"
+    }
+  },
+  {
+    "id": 12,
+    "posted": false,
+    "summary": "Reinsurance strategy is a board decision -- not a technical one to be left entirely to the CRO or CFO. Singapore boards that do not understand their reinsurance programme cannot govern it.\n\nRead more on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/reinsurance-governance-singapore"
+    }
+  },
+  {
+    "id": 13,
+    "posted": false,
+    "summary": "AI in reinsurance is not just a productivity story. It is an ecosystem transformation -- real-time risk exchange, parametric 2.0, AI-native MGAs. The reinsurers who treat it as a cost-reduction tool will be outpaced.\n\nRead the full piece at the link.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/ai-application-reinsurance-sci-course-2026"
+    }
+  },
+  {
+    "id": 14,
+    "posted": false,
+    "summary": "Physical climate risk in Singapore insurance is no longer a scenario exercise. Boards need to understand how flood, heat, and storm tail risk sits inside their capital position -- not just in a disclosure appendix.\n\nRead more at the link.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/climate-physical-risk-singapore-insurance"
+    }
+  },
+  {
+    "id": 15,
+    "posted": false,
+    "summary": "Indonesian insurance brokers now operate under POJK 44/2020, 4/2021 and 24/2023. ERM and BCP are no longer optional -- they are regulatory requirements with real consequences for firms that treat them as paperwork.\n\nRead the full piece on our Insights page.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/apari-erm-bcp-indonesia-brokers-2026"
+    }
+  },
+  {
+    "id": 16,
+    "posted": false,
+    "summary": "What Singapore boards get wrong about independent directors: independence is a state of mind and a governance structure -- not just a box on the board composition form.\n\nRead the full article at the link.",
+    "callToAction": {
+      "actionType": "LEARN_MORE",
+      "url": "https://raymondcheungwm.com/insights/independent-board-director-singapore"
+    }
+  }
+]
